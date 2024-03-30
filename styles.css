@@ -1,0 +1,27 @@
+body {
+    background-color: whitesmoke;
+}
+
+h1{
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(117, 11, 11);
+}
+
+.center-table {
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+.center-table th, .center-table td {
+    padding: 10px;
+    border: 1px solid black;
+    font-weight: bold;
+}
+
+.table-header{
+    background-color: rgb(245, 104, 104)
+}
